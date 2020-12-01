@@ -1,6 +1,6 @@
 # IT Salary Survey
 
-Open Data Science (ODS) community conducts yearly survey among European IT professionals to assure market transparancy.
+The <a href="https://ods.ai/" target="_blank" rel="noopener">Open Data Science (ODS)</a> community conducts yearly survey among European IT professionals to assure market transparancy.
 
 Please contribute to the survey for 2020 by filling <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPDpjEN98tazCLOQ7xxgK84DZeanC8wI_akPyKOeW3HwBhuA/viewform" target="_blank" rel="noopener">the form</a>.
 
