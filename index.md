@@ -6,4 +6,4 @@ Please contribute to the survey for 2020 by filling <a href="https://docs.google
 
 The raw data can be found <a href="https://docs.google.com/spreadsheets/d/1DjPgQeBu53I0Dws4YMbXyyQdWDLpMtkSu4FhGux0epY/edit#gid=1727021736" target="_blank" rel="noopener">here</a>.
 
-The site is WIP, please get in touch if you would like to contribute.
+The site is WIP, please <a href="https://www.linkedin.com/in/dkisler/" target="_blank" rel="noopener">get in touch</a> if you would like to contribute.
