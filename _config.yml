@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+locale: "en-US"
+title: "IT Salary Survey"
+description: "Salary Survey among IT Professionals"
