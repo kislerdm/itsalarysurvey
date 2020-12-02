@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en-US">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,13 +14,9 @@
     <meta name="description"
         content="{{ page.description | default: site.description | default: site.github.project_tagline }}">
 </head>
-
 <body>
     <main>
-        <iframe
-            src="https://docs.google.com/spreadsheets/d/1DjPgQeBu53I0Dws4YMbXyyQdWDLpMtkSu4FhGux0epY/edit#gid=1727021736"
-            width="100%" height="100%">
+        <iframe src="https://nitoloz.github.io/salary-report/" width="100%" height="100%"/>
     </main>
 </body>
-
 </html>
