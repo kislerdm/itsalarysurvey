@@ -37,7 +37,7 @@
       {% if site.github.is_project_page %}
         <a href="{{ site.url }}" class="btn">Home</a>
         <a href="{{ site.url }}/form" class="btn">Survey Form</a>
-        <a href="{{ site.url }}/dashboard.html" target="_blank" rel="noopener" class="btn">Dashboard</a>
+        <a href="{{ site.url }}/dashboard" target="_blank" rel="noopener" class="btn">Dashboard</a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
