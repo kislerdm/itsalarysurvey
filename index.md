@@ -6,4 +6,6 @@ Please contribute to the survey of 2020 by filling <a href="https://docs.google.
 
 The dashboard with the previous years surveys' results can be found <a href="https://nitoloz.github.io/salary-report/" target="_blank" rel="noopener">here</a>.
 
+<a href="./blog/results/2019" target="_blank" rel="noopener">Read the blog post</a> about the survey 2019 results written by <a href="https://www.linkedin.com/in/ksenialeg/" target="_blank" rel="noopener">Ksenia Legostay</a>.
+
 The site is WIP, please <a href="https://www.linkedin.com/in/dkisler/" target="_blank" rel="noopener">get in touch</a> if you would like to contribute.
