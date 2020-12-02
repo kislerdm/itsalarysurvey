@@ -13,10 +13,13 @@
         content="{{ page.description | default: site.description | default: site.github.project_tagline }}">
     <meta name="description"
         content="{{ page.description | default: site.description | default: site.github.project_tagline }}">
+    <style>
+        html, body {
+            height: 100%;
+        }
+    </style>
 </head>
 <body>
-    <main>
-        <iframe src="https://nitoloz.github.io/salary-report/" width="100%" height="100%"/>
-    </main>
+    <iframe src="https://nitoloz.github.io/salary-report/" width="100%" style="width: 100%;"/>
 </body>
 </html>

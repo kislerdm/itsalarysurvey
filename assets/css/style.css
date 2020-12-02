@@ -9,11 +9,10 @@
   }
 }
 
-header a {
-  color: #fff;
+html, body {
+  height: 100%;
 }
 
-figcaption {
-  font-size: 80%;
-  text-align: center;
+header a {
+  color: #fff;
 }
