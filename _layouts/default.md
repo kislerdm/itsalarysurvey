@@ -36,6 +36,7 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.url }}" class="btn">Home</a>
+        <a href="https://nitoloz.github.io/salary-report/" target="_blank" rel="noopener" class="btn">Dashboard</a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
