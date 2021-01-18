@@ -8,6 +8,8 @@ The <a href="https://ods.ai/" target="_blank" rel="noopener">Open Data Science (
 
 - [Results 2019](blog/results/2019.md)
 
+- [Results 2018](blog/results/2018.md)
+
 <!-- <strong><em>Please contribute to the survey of 2020</em></strong> by filling [the form](./form.md). The raw data collected so far can be found <a href="https://docs.google.com/spreadsheets/d/1DjPgQeBu53I0Dws4YMbXyyQdWDLpMtkSu4FhGux0epY/edit#gid=1727021736" target="_blank" rel="noopener">here</a>. -->
 
 ## Dashboard
