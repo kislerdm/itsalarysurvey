@@ -10,15 +10,19 @@ The <a href="https://ods.ai/" target="_blank" rel="noopener">Open Data Science (
 
 - [Results 2018](blog/results/2018.md)
 
+- [Results 2017](blog/results/2017.md) (<em>in Russian only</em>)
+
+- [Results 2016](blog/results/2016.md) (<em>in Russian only</em>)
+
 ## Raw data
 
 - [2020](data/raw/2020.md): <a href="./download/data/2020.csv" download="itsalarysurvay_2020.csv" target="_blank" rel="noopener">download csv</a>
 
 - [2019](data/raw/2019.md): <a href="./download/data/2019.csv" download="itsalarysurvay_2019.csv" target="_blank" rel="noopener">download csv</a>
 
-- 2018: <a href="./download/data/2018.csv" download="itsalarysurvay_2018.csv" target="_blank" rel="noopener">download csv</a>
+- [2018](data/raw/2018.md): <a href="./download/data/2018.csv" download="itsalarysurvay_2018.csv" target="_blank" rel="noopener">download csv</a>
 
-- 2017: <a href="./download/data/2017.csv" download="itsalarysurvay_2017.csv" target="_blank" rel="noopener">download csv</a>
+- [2017](data/raw/2017.md): <a href="./download/data/2017.csv" download="itsalarysurvay_2017.csv" target="_blank" rel="noopener">download csv</a>
 
 - [2015](data/raw/2015.md): <a href="./download/data/2015.csv" download="itsalarysurvay_2015.csv" target="_blank" rel="noopener">download csv</a>
 
